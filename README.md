@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Saqib 👋
 
-<!--
-**razaqsaqib808-a11y/razaqsaqib808-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer from Pakistan who enjoys building modern and responsive websites.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Web Developer
+- 🌱 Currently learning Full Stack Development
+- ⚡ Focused on improving frontend and backend skills
+- 🛠️ Love creating real-world web projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Currently Working On
+- Dynamic PHP & MySQL Projects
+- Responsive Website Designs
+- Improving Backend Development Skills
+
+## 💡 Skills
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+
+## 📚 Currently Learning
+- Advanced PHP
+- Backend Development
+- Modern Web Design
+
+## 📫 How to Reach Me
+- Email: razaqsaqib808@gmail.com
+
+## 🎯 Goal
+To become a professional full stack developer and build powerful web applications.
